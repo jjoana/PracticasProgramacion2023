@@ -9,4 +9,4 @@ Para la ejecución de este progrma vamos a pulsar el botón derecho del ratón s
 El número máximo de iteraciones que tiene el programa es de 2.147.483.467 ya que hemos definido como integer la variable numero de iteraciones.
 
 ## Referencias que he consultado
-[enlace a wikipedia](https://monografias.com/trabajos27/complejidad-algoritmica/complejidad_algoritmica.shtml#complej)
+[enlace a wikipedia](https://es.wikipedia.org/wiki/M%C3%A9todo_de_Montecarlo)
