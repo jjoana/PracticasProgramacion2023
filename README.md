@@ -1,4 +1,6 @@
-# PracticasProgramacion2023
+# PracticasProgramacion2024
+
+#NEREA FERRER
 
 ## Esta práctica consiste en la obtención del número Pi mediante el método de Montecarlo.
 > El método de Montecarlo es un método no determinista o estadístico numérico, usado para aproximar expresiones matemáticas complejas y costosas con exactitud. El método se llamó así en referencia al Casino de Montecarlo (Mónaco) por ser "capital"del juego del azar, al ser la ruleta un generador simple de números aleatorios. El nombre y el desarrollo sistemático de los métodos de Montecarlo datan aproximadamente de 1944 y se mejoraron enormemente con el desarrollo de la computadora.
